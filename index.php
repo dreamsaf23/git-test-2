@@ -10,5 +10,11 @@
     <h1>Hello World</h1>
     <hr>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, in!</p>
+
+    <ul>
+        <li>Hello</li>
+        <li>Hello</li>
+        <li>Hello</li>
+    </ul>
 </body>
 </html>
